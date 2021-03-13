@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:cocoa"
+    },
+    "Y": {
+      "tag": "forge:sugar"
+    },
+    "X": {
+      "tag": "mitige:cereal"
+    }
+  },
+  "result": {
+    "item": "mitige:nrj_appl"
+  }
+}

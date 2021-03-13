@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "key": {
+    
+    "X": {
+      "tag": "forge:wheat"
+    }
+  },
+  "result": {
+    "item": "mitige:cereal",
+        "count": 4
+  }
+}
