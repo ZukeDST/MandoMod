@@ -21,8 +21,8 @@ public class ModFeatures {
     {
         ORE_BESKAR_FEATURE = register("ore_beskar", Feature.ORE.withConfiguration(new OreFeatureConfig(ModOreFeatureConfig.FillerBlockType.END, MitigeBlocks.Beskar_ore.get().getDefaultState(), 1))
         .square()
-        .range(300)
-        .func_242731_b(3));
+        .range(40)
+        .func_242731_b(4));
     }
 
     public <FC extends IFeatureConfig> ConfiguredFeature<FC, ?> register(String name, ConfiguredFeature<FC, ?> feature)
