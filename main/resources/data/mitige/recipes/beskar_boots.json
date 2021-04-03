@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "mitige:beskar_ingot"
+    }
+  },
+  "result": {
+    "item": "mitige:beskar_boots"
+  }
+}
