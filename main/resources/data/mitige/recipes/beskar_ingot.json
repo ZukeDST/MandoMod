@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X"
+	],
+	"key": {
+		"X": {
+			"item": "mitige:beskar_block"
+		}
+	},
+	"result": {
+		"item": "mitige:beskar_ingot",
+		"count": 9
+	}
+}
