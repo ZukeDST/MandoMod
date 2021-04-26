@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "mitige:beskar_ore"
+          "name": "mitige:beskar_ingot"
         }
       ],
       "conditions": [
