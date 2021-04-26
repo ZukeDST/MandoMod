@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+ "pattern": [
+    "XAX",
+    "XXX"
+   ], 
+  
+   "key": {
+     
+    "X":{  
+    "item": "mando:beskar_ingot"
+    },
+  	 "A": {
+     	 "item": "minecraft:stone_button"
+    }
+      },
+      
+  "result": {
+    "item": "mando:mandalorian_gauntlet",
+    "count": 1
+  }
+}

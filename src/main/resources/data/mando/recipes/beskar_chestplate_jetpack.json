@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XZ"
+	],
+	"key": {
+		"X": {
+			"item": "mando:beskar_chestplate"
+		},
+		"Z": {
+			"item": "mando:jetpack"
+		}
+	},
+	"result": {
+		"item": "mando:beskar_chestplate_jetpack"
+	}
+}
+}

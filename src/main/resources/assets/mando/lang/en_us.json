@@ -1,0 +1,21 @@
+{
+
+	
+	"item.mando.beskar_scrap": "Beskar Scrap",
+	"item.mando.beskar_ingot": "Beskar Ingot",
+	"item.mando.mandalorian_gauntlet": "Mandalorian Gauntlet",
+	"item.mando.beskar_spear": "Beskar Spear",
+	"item.mando.jetpack": "Jetpack",
+	
+	"item.mando.beskar_helmet": "Beskar Helmet",
+	"item.mando.beskar_chestplate": "Beskar Chestplate",
+	"item.mando.beskar_leggings": "Beskar Leggings",
+	"item.mando.beskar_boots": "Beskar Boots",
+	"item.mando.beskar_chestplate_jetpack": "Beskar Chestplate + Jetpack",
+	
+	"block:mando.beskar_ore": "Beskar ore",
+	"block.mando.mitige_block": "Mitigé Block",
+	"block.mando.beskar_block": "Beskar Block",
+
+	"itemGroup.mandaloriantab": "Mandalorian Stuff"
+}

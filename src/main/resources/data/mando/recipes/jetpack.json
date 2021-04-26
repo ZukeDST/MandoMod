@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+ "pattern": [
+ 	" Y ",
+    "XZX",
+    "XAX"
+   ], 
+  
+   "key": {
+     
+    "X":{  
+    "item": "mando:beskar_ingot"
+    },
+  	 "A": {
+     	 "item": "minecraft:blaze_powder"
+    },
+     "Y": {
+        "item": "minecraft:firework_rocket"
+      },
+     "Z": {
+        "item": "minecraft:gunpowder"
+        }
+      },
+      
+  "result": {
+    "item": "mando:jetpack",
+    "count": 1
+  }
+}
