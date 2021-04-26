@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mitige:item/beskar_chestplate_jetpack"
+  }
+}
